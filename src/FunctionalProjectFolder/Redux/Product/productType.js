@@ -1,0 +1,10 @@
+export const ADD_PRODUCT = "ADD_PRODUCT";
+export const SET_PRODUCTS = "SET_PRODUCTS";
+export const SET_GROUPS = "SET_GROUPS";
+export const ADD_OPTIONS = "ADD_OPTIONS";
+export const SET_OPTIONS = "SET_OPTIONS";
+export const FILTER = "FILTER";
+export const UPDATE = "UPDATE";
+export const SEARCH = "SEARCH";
+export const SET_SHOW_FORM = "SET_SHOW_FORM";
+export const SET_SELECTED_OPTION = "SET_SELECTED_OPTION";
